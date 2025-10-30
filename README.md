@@ -6,10 +6,10 @@
         MWWWWWWWWWWWWWMMMMMMWWWWWWWWWWWWWM                 └ └🐍: Python
         MWWWWWWWWMRF          FRMWWWWWWWWM                 └────────────────────────────────────────────────────┘
         WWWWWWMF                  RMWWWWWM                 .
-      FMWWWWWF                      RWWWWWMF               .
-   FMWWWWWWM                         FMWWWWWMRF            .
-FMWWWWWWWWM                           FWWWWWWWWWMF         .
-MWWWWWWWWWF                            RWWWWWWWWWR         .
+      FMWWWWWF                      RWWWWWMF               ┌────────────────────🌟GitHub🌟──────────────────────┐
+   FMWWWWWWM                         FMWWWWWMRF            🖥️ Github 
+FMWWWWWWWWM                           FWWWWWWWWWMF         │ └🖼️:#44 Spectrocat
+MWWWWWWWWWF                            RWWWWWWWWWR         └────────────────────────────────────────────────────┘
 WWWWWWWWWW                             FWWWWWWWWWM         .
 WWWWWWWWWW                             FWWWWWWWWWM         .
 MWWWWWWWWWF                            RWWWWWWWWWM         .
