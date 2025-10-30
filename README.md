@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**C0DE33301/C0DE33301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+               RMMR            RMMR
+           FRMWWWWWWMF     FRMWWWWWWMRF
+         RMWWWWWWWWWWWWWMMWWWWWWWWWWWWWMR
+        MWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWR
+        MWWWWWWWWWWWWWMMMMMMWWWWWWWWWWWWWM
+        MWWWWWWWWMRF          FRMWWWWWWWWM
+        WWWWWWMF                  RMWWWWWM
+      FMWWWWWF                      RWWWWWMF
+   FMWWWWWWM                         FMWWWWWMRF
+FMWWWWWWWWM                           FWWWWWWWWWMF
+MWWWWWWWWWF                            RWWWWWWWWWR
+WWWWWWWWWW                             FWWWWWWWWWM
+WWWWWWWWWW                             FWWWWWWWWWM
+MWWWWWWWWWF                            RWWWWWWWWWM
+FMWWWWWWWWM                            WWWWWWWWWMF
+  FRMWWWWWWM                          MWWWWWWMR
+      FWWWWWMF                      FWWWWWMF
+       FWWWWWWMF                  FMWWWWWM
+        MWWWWWWWWMFF          FRMWWWWWWWWM
+        MWWWWWWWWWWWWMMMMMMMMWWWWWWWWWWWWM
+        MWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWR
+         RWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWR
+           FRMWWWWWWMRF    FRMWWWWWWMRF
+              FRWWR           FMWMR
+```
