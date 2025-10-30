@@ -1,9 +1,9 @@
 ```sh
-               RMMR            RMMR                        ┌────────────────────── * Me * ──────────────────────┐
-           FRMWWWWWWMF     FRMWWWWWWMRF                     Skills
-         RMWWWWWWWWWWWWWMMWWWWWWWWWWWWWMR                  │ ├: Linux
-        MWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWR                 │ ├: Bash
-        MWWWWWWWWWWWWWMMMMMMWWWWWWWWWWWWWM                 └ └󰓡: Python
+               RMMR            RMMR                        ┌────────────────────🌟C0DE33301🌟───────────────────┐
+           FRMWWWWWWMF     FRMWWWWWWMRF                    📚 Skills
+         RMWWWWWWWWWWWWWMMWWWWWWWWWWWWWMR                  │ ├🖵: Linux
+        MWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWR                 │ ├🐚: Bash
+        MWWWWWWWWWWWWWMMMMMMWWWWWWWWWWWWWM                 └ └🐍: Python
         MWWWWWWWWMRF          FRMWWWWWWWWM                 └────────────────────────────────────────────────────┘
         WWWWWWMF                  RMWWWWWM                 .
       FMWWWWWF                      RWWWWWMF               .
