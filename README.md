@@ -24,5 +24,5 @@ FMWWWWWWWWM                            WWWWWWWWWMF         .
            FRMWWWWWWMRF    FRMWWWWWWMRF                    .
               FRWWR           FMWMR                        .
 ```
-
-[![Hello, World!](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=536728)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=536728)
+# My Badges
+<img src="https://tryhackme-badges.s3.amazonaws.com/code333.png" alt="Your Image Badge" />
