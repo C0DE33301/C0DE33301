@@ -25,4 +25,4 @@ FMWWWWWWWWM                            WWWWWWWWWMF         .
               FRWWR           FMWMR                        .
 ```
 # My Badges
-<img src="https://tryhackme-badges.s3.amazonaws.com/code333.png" alt="Your Image Badge" />
+![IMG](https://tryhackme-badges.s3.amazonaws.com/code333.png "TryHackMe")
