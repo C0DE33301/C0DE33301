@@ -24,5 +24,3 @@ FMWWWWWWWWM                            WWWWWWWWWMF         .
            FRMWWWWWWMRF    FRMWWWWWWMRF                    .
               FRWWR           FMWMR                        .
 ```
-# My Badges
-![IMG](https://tryhackme-badges.s3.amazonaws.com/code333.png "TryHackMe")
